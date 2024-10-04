@@ -1,0 +1,20 @@
+﻿syntax = "proto3";
+
+service CreateWGConnection {
+	rpc StartConnection (ConnectionInit) returns (ConnectionResp) {}
+}
+
+message ConnectionInit {
+	string email = 1;
+	string clientPubKey = 2;
+	string acessToken = 3;
+	string deviceId = 4;
+}
+
+message ConnectionResp {
+	string email = 1;
+	string serverPubKey = 2;
+	int32  portNumber = 3;
+	string serverIPAddr = 4;
+	bytes certificateFileCrt = 5;
+}
