@@ -4,7 +4,7 @@
 
 We are a small company which doesn't produce a profit, so if you like what you're seeing please donate!
 
-BTC Address: `3QDGJyRWiVEUyCytQBWJ5h3kVQAca8pZ1L`
+BTC Address: `3QDGJyRWiVEUyCytQBWJ5h3kVQAca8pZ1L` \
 XMR Address: `85pJmtRzE6zWhSpggKyiXHDG56FM6ydStYBRfuU4FV5Y1uCvnBwAuacRNRNkAJmAR76fzBF5QQeBiEnuaQJeiHaDF7D6xFb`
 
 ## Software
